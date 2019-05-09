@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Scheduling_Final_Year</string>
+    <string name="Meetings">Meetings</string>
+    <string name="title_activity_upcoming">Upcoming</string>
+    <string name="title_activity_calendar">Calendar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reeee_calendar">REEEE CALENDAR</string>
+    <string name="reee_upcoming">REEE UPCOMING</string>
+    <string name="home_page_ree">HOME PAGE REE</string>
+    <string name="add_meeting">Add meeting</string>
+
+
+    <string-array name="Options">
+        <item>Meeting</item>
+        <item>Appointment</item>
+        <item>Deadline</item>
+        <item>Hobby</item>
+        <item>Other</item>
+    </string-array>
+</resources>
